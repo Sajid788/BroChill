@@ -22,8 +22,8 @@ This is a Full Stack Blog Website where users can:
 - Cloudinary (for storing images)
 
 ## 🔗 **Deployment Links**
-- **Frontend:** [Live Demo](https://bro-chill-1f3m.vercel.app/)
-- **Backend:** [API Server](https://bro-chill-henna.vercel.app/)
+- **Frontend:** [Live Demo](https://bro-chill-1f3m.vercel.app)
+- **Backend:** [API Server](https://bro-chill-henna.vercel.app)
 
 ## ⚙️ **Installation Guide**
 ### **Clone Repository**
