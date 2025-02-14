@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import axios from "axios";
 import { Link } from 'react-router-dom';
-import { FaHandsClapping } from "react-icons/fa6";
+import { FaHandsClapping, FaSpinner } from "react-icons/fa6";
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
 
@@ -26,6 +26,13 @@ const List = () => {
         );
         setFilteredBlogs(filtered);
     };
+
+    if (!blogs)
+        return (
+          <div className="flex justify-center items-center h-screen">
+            <FaSpinner className="text-4xl text-gray-600 animate-spin" />
+          </div>
+        );
 
     return (
         <div>
