@@ -12,8 +12,7 @@ This is a Full Stack Blog Website where users can:
 - Tailwind CSS for styling
 
 ### **Backend**
-- Node.js with Express
-- Laravel (Optional Alternative)
+- Node.js with Express,
 
 ### **Database**
 - MongoDB 
