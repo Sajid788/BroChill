@@ -67,10 +67,8 @@ npm start
   
 
 📌 Application ScreenShots
+![image](https://github.com/user-attachments/assets/157d4964-8edb-405c-812e-b9511a4c274c)
 ![image](https://github.com/user-attachments/assets/dddf13e6-326e-466d-a04e-ca989c5e81d0)
-
-
-
 
 
 
