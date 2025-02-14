@@ -65,6 +65,11 @@ npm start
 - Ensure Cloudinary is properly configured in the backend.
 - Use `multer-storage-cloudinary` for handling file uploads.
 
+📌 Application ScreenShots
+![image](https://github.com/user-attachments/assets/bfdb42f1-f003-4ff2-885b-6a46e46e98a1) ![image](https://github.com/user-attachments/assets/f4c2ac4a-063b-47b2-9867-bcfb0ffff15d)
+
+
+
 ## 📜 **License**
 This project is open-source and available under the [MIT License](LICENSE).
 
