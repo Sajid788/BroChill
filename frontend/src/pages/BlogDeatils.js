@@ -10,7 +10,7 @@ const BlogDetails = () => {
 
   useEffect(() => {
     axios
-      .get(`http://localhost:8080/api/blogs/${id}`)
+      .get(`https://bro-chill-henna.vercel.app/api/blogs/${id}`)
       .then((res) => setBlog(res.data));
   }, [id]);
 

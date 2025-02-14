@@ -11,7 +11,7 @@ const List = () => {
     const [filteredBlogs, setFilteredBlogs] = useState([]); 
 
     useEffect(() => {
-        axios.get("http://localhost:8080/api/blogs").then((res) => {
+        axios.get("https://bro-chill-henna.vercel.app/api/blogs").then((res) => {
             setBlogs(res.data);
             setFilteredBlogs(res.data); 
         });
