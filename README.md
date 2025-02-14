@@ -64,11 +64,12 @@ npm start
 ## 📷 **Image Upload via Cloudinary**
 - Ensure Cloudinary is properly configured in the backend.
 - Use `multer-storage-cloudinary` for handling file uploads.
+  
 
 📌 Application ScreenShots
-![image](https://github.com/user-attachments/assets/bfdb42f1-f003-4ff2-885b-6a46e46e98a1) 
+![image](https://github.com/user-attachments/assets/dddf13e6-326e-466d-a04e-ca989c5e81d0)
 
-![image](https://github.com/user-attachments/assets/c988b05a-25fb-4315-a424-01741eb6417b)
+
 
 
 
